@@ -1,7 +1,22 @@
 .column {
   width: 600px;
   float: left;
+  border: 2px solid yellow;
+  padding: 4px
 }
 body{
   background-color: #9932CC;
+}
+#yellow{
+  border: 2px solid green;
+  padding: 4px;
+  margin: 12px solid blue;
+  background-color: yellow;
+}
+
+#green{
+  border: 2px solid green;
+  padding: 4px;
+  margin: 12px solid blue;
+  background-color: green;
 }
